@@ -1,8 +1,7 @@
 # 🍽️ TARILKA
 
-<div align="center">
+<div  align="center">
 
-<!-- TODO: Add a project logo if available in Exported_images or create one -->
 
 
 **An interactive design prototype and homepage code example for a catering business website.**
@@ -48,7 +47,13 @@ Last year I created a portfolio, which required building of the portfolio and I 
 
 ## 🚀 Quick Start
 
-This project is primarily a design artifact and a static code example. There are no complex build steps or server requirements.
+This project is primarily a prototype and does not require you to download any files, they are uploaded to this repository just as examples.The main product is the interactive prototype which you can access through the links and I showed how to do this in the demo video above.
+
+[Demo Video](https://youtu.be/O-XiIKpeZIY)
+
+
+
+Although, if you want to download any files there are instructions how to do it, and there are no complex build steps or server requirements: 
 
 ### Prerequisites
 -   A modern web browser (e.g., Chrome, Firefox, Safari, Edge) to view the `code_example`.
@@ -70,11 +75,11 @@ This project is primarily a design artifact and a static code example. There are
     ```bash
     cd code_example
     ```
-    Open the `index.html` file directly in your web browser.
+    Open the `tarilochka.html` file directly in your web browser.
     ```bash
     # Example command for Linux/macOS
-    open index.html
-    # Or simply double-click index.html from your file explorer
+    open tarilochka.html
+    # Or simply double-click html file from your file explorer
     ```
 
 ## 📁 Project Structure
@@ -94,7 +99,7 @@ TARILKA/
 ## ✨ Usage
   This project can be used as an example to show to stakeholders how their website could work and how it could look. Usually interactive prototypes are the tools for visualising a variety of interactive designs in the project. Also, prototypes can be really helpful for the designers as they turn a cocnept into reality, and using it, designers could find unintended scenarios and usability problems while testing before the actual development and launch.
 
-## 🖥️ AI Acknowledgement 
+## 🖥️ AI Acknowledgement and Resources reference
   Firstly, in the actual designing and developing of the prortotype none of the known AI agents were used, but for the example of the code I used plugin: "Locofy Lighting - Figma to Code in a flash", which you can add to your workspace at the plugin section in the Figma.
   
   Also, for building/writing the ReadMe file I used ReadMe generator: https://readme.so/editor, which helped with the design parts of the document and proper explanation of setup instructions and project structure.
@@ -114,9 +119,12 @@ TARILKA/
         https://www.allrecipes.com/article/top-50-cocktail-list-and-recipes/
 <div align="center">
 
+
 **⭐ Star this repo if you find it helpful or inspiring!**
 
 Made ❤️ by [sofiaplyak](https://github.com/sofiaplyak)
 
 </div>
+
+
 
